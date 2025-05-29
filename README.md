@@ -39,11 +39,6 @@ It provides a smooth and delightful shopping experience with a clean UI and intu
 
 ---
 
-## 📸 Screenshots
-
-*(You can add screenshots here once you export the UI)*
-
----
 
 ## 🧑‍💻 Author
 

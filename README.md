@@ -1,0 +1,56 @@
+# 🌿 GreenRose – Plant Shop App
+
+GreenRose is a modern and elegant plant shop application for Android, designed with **Kotlin** and **Jetpack Compose**.  
+It provides a smooth and delightful shopping experience with a clean UI and intuitive UX.
+
+> ⚠️ Backend and database integration coming soon!
+
+---
+
+## ✨ Features
+
+- 🏡 Beautiful Home screen with plant highlights  
+- 📚 Categorized browsing  
+- 👤 User profile section  
+- 📍 Saved addresses management  
+- ℹ️ About us page  
+- 🧠 Uses SharedPreferences for data persistence  
+- 🎨 Clean architecture and maintainable codebase  
+
+---
+
+## 🛠️ Tech Stack
+
+- Kotlin  
+- Jetpack Compose  
+- Android Architecture Components  
+- SharedPreferences  
+- Material Design 3  
+
+---
+
+## 🚀 Future Plans
+
+- Firebase or custom backend integration  
+- Room Database or other local DB  
+- Login / Register functionality  
+- Cart and payment system  
+- Dark mode support  
+
+---
+
+## 📸 Screenshots
+
+*(You can add screenshots here once you export the UI)*
+
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by [Mahdiar](mailto:mahdiarbarzegar0@gmail.com)
+
+---
+
+## 📦 License
+
+This project is licensed under the MIT License.

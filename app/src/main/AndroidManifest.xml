@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher_foreground"
+        android:label="@string/AppName2"
+        android:roundIcon="@mipmap/ic_launcher_foreground"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:targetApi="31">
+        <activity
+            android:name=".ui.mainFunsUI.SearchPage"
+            android:exported="false"
+            android:label="@string/title_activity_search_page"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".ui.mainFunsUI.SecondActivity"
+            android:exported="false"
+            android:label="@string/AppName2" />
+        <activity
+            android:name=".ui.mainFunsUI.MainActivity"
+            android:exported="false"
+            android:label="MainActivity" />
+        <activity
+            android:name=".ui.authenticationFunUI.SetName"
+            android:exported="false"
+            android:label="@string/title_activity_set_name" />
+        <activity
+            android:name=".ui.authenticationFunUI.ConfirmCode"
+            android:exported="false"
+            android:label="@string/title_activity_confirm_code" />
+        <activity
+            android:name=".ui.authenticationFunUI.Login"
+            android:exported="false"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name=".ui.mainFunsUI.SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

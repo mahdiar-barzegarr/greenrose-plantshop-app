@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CompetitionApp</string>
+    <string name="title_activity_login">Login</string>
+    <string name="loginLongScript">جهت ورود به فروشگاه شماره تلفن همراه خود را در کادر زیر وارد کرده و کد ارسالی به شماره خود را در مرحله بعد وارد کنید</string>
+    <string name="loginShortScript">فروشگاه اینترنتی خرید گل و گیاه</string>
+    <string name="textFieldScript">شماره تلفن همراهتان را وارد کنید</string>
+    <string name="upTextField">:شماره تلفن</string>
+    <string name="ButtonLogin">تایید و ادامه</string>
+    <string name="title_activity_confirm_code">ConfirmCode</string>
+    <string name="confirmLongScript">کد 4 رقمی ارسال شده به 09905644366  خود را وارد کنید</string>
+    <string name="resendScript">ارسال مجدد کد</string>
+    <string name="editNum">ویرایش شماره</string>
+    <string name="confirmTextFieldScript">کد تائید را وارد کنید</string>
+    <string name="confirmCode">:کد تایید</string>
+    <string name="title_activity_set_name">SetName</string>
+    <string name="UserInfo">:اطلاعات کاربری</string>
+    <string name="UserInfoTextField">نام و نام خانوادگی خود را وارد کنید</string>
+    <string name="ButtonConfirm">ثبت اطلاعات</string>
+    <string name="skip">عبور از این مرحله</string>
+    <string name="isErrorText">لطفا کادر را پر کنید</string>
+    <string name="itsNotNumber">شماره صحیح نمی باشد</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="TopAppBarName">Green Rose</string>
+    <string name="ProfileScript">پروفایل کاربری</string>
+    <string name="ProfileEditPage">ویرایش اطلاعات کاربری\n</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="AppName2">Green Rose</string>
+    <string name="title_activity_search_page">SearchPage</string>
+</resources>

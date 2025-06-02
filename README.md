@@ -19,6 +19,14 @@ It provides a smooth and delightful shopping experience with a clean UI and intu
 
 ---
 
+## 🎬 App Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahdiar-barzegarr/greenrose-plantshop-app/refs/heads/main/ezgif.com-gif-to-webp-converter.gif" width="600" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 - Kotlin  
@@ -38,7 +46,6 @@ It provides a smooth and delightful shopping experience with a clean UI and intu
 - Dark mode support  
 
 ---
-
 
 ## 🧑‍💻 Author
 
